@@ -1,0 +1,10 @@
+##OpenGL GLIB
+Ortho -4. 4.   -4. 4.
+LookAt 0 0 2  0 0 0  0 1 0
+Texture2D 6 vis2dtexture.tex
+Texture2D 7 current.tex
+Texture2D 8 worldtex.bmp
+Vertex lic2d.vert
+Fragment lic2d.frag
+Program Lic2D  TexUnit 6  Length <0. 1. 50.> uFlowUnit 7 WorldTexUnit 8
+Sphere 1. 60 60
