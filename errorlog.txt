@@ -1,7 +1,4 @@
 
-WARNING: 0:2: '' :  #version directive missing
-WARNING: 0:19: 'function' : is not available in current GLSL version texture
-WARNING: 0:20: 'assign' : implicit type conversion allowed from GLSL 1.20 
-ERROR: 0:26: '}' : syntax error syntax error
+ERROR: 0:21: 'a' : vector field selection out of range 
 
 
